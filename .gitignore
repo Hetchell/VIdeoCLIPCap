@@ -3,3 +3,6 @@ Charades/
 video_tensors/
 video_tensors_120/
 text_tensors/
+clip_caption/
+video_tensors_60/
+not_main.ipynb
